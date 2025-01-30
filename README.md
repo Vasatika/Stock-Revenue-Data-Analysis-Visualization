@@ -1,7 +1,7 @@
 # 📊 Extracting and Visualizing Stock Data – IBM Python Project  
 
 ## 📌 Project Overview  
-This project is part of the **IBM Python for Data Science Certification** and focuses on extracting, analyzing, and visualizing **stock market data** for **Tesla and GameStop**. Using **Python, yFinance, and Web Scraping (BeautifulSoup)**, I retrieved **historical stock prices & revenue data** and created an **interactive dashboard with Plotly** to uncover trends and insights.  
+This project is part of the **IBM Python for Data Science Certification** and focuses on extracting, analyzing, and visualizing **stock market data** for **Tesla and GameStop**. Using **Python, yFinance, and Web Scraping (BeautifulSoup and read_html)**, I retrieved **historical stock prices & revenue data** and created an **interactive dashboard with Plotly** to uncover trends and insights.  
 
 ---
 
